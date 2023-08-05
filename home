@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!--
+	
+	-->
+    <title>Home</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Troy Rosenow">
+	<meta name="description" content="Welcome to Helping Our Heroes - Providing support, resources, and assistance to the brave men and women who served in the US military.">
+    <meta name="keywords" content="US veterans, veterans support, military assistance, veteran resources, helping veterans">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" media="screen and (min-width: 900px)" href="css/default_styles.css"> <!-- Computers -->
+	<link rel="stylesheet" media="screen and (max-width: 899px)" href="css/mobile_styles.css"> <!-- Tablet and phone -->
+</head>
+
+<body>
+    <header>
+		<nav>
+			<ul>
+				<li><a href="home.html" id="active">Home</a></li>
+				<li><a href="help.html">Ways to Help</a></li>
+				<li><a href="newsletter.html">Newsletter</a></li>
+				<li><a href="about.html">About</a></li>
+			</ul>
+		</nav>
+    </header>
+    <main>
+		<div id="body">
+			<h1>US Veteran Support</h1>
+			<p>The need to help US veterans arises from the significant challenges they often face after their military service. 
+			Veterans may grapple with physical disabilities, post-traumatic stress disorder (PTSD), unemployment, and homelessness. 
+			According to a report by the National Coalition for Homeless Veterans (2020), over 37,000 veterans experienced homelessness in 2019. 
+			These brave individuals sacrificed their well-being to protect our nation, and it is our responsibility to offer them support in return. 
+			Assisting veterans in accessing healthcare, mental health services, job training, and affordable housing is crucial to help them reintegrate into civilian life successfully. 
+			Addressing the needs of US veterans not only honors their service but also contributes to building a stronger and more compassionate society.
+			</p>
+			<div class="bar"></div>
+		</div>
+    </main>
+    <footer>
+		<p>Copyright by Troy Rosenow &copy; 2023</p>
+    </footer>
+</body>
+
+</html>
