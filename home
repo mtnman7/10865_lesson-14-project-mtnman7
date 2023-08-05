@@ -1,17 +1,20 @@
-
 <!DOCTYPE html>
-<html>
+
+<html lang="en">
 
 <head>
 	<!--
-	
+        Author:     TRO2027507
+        Course:     CIS133DA
+        Section:    10865
+        Lesson:     14
 	-->
     <title>Home</title>
     <meta charset="UTF-8">
     <meta name="author" content="Troy Rosenow">
 	<meta name="description" content="Welcome to Helping Our Heroes - Providing support, resources, and assistance to the brave men and women who served in the US military.">
     <meta name="keywords" content="US veterans, veterans support, military assistance, veteran resources, helping veterans">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" media="screen and (min-width: 900px)" href="css/default_styles.css"> <!-- Computers -->
 	<link rel="stylesheet" media="screen and (max-width: 899px)" href="css/mobile_styles.css"> <!-- Tablet and phone -->
 </head>

@@ -1,0 +1,161 @@
+/*
+	Active id is used for highlighting the navigation tab of the page the user is currently on. This was used over an HTML element selector so that only one of the tabs will highlight.
+	Body id is used as a container for the main page content. This was used over an HTML element selector so that I can specifically format the main page content container.
+	Bar class is used for adding empty visual bars to the body that are formatted similar to an <h2> but without text. This was used over an HTML element selector so that only a <div> with the bar class will appear as a bar.
+	Newsletter id is used as a container for the newsletter form. This was used over an HTML element selector so that I can specifically format the newsletter form container.
+*/
+
+/* Body Styles */
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #686779;
+	background-image: url("../images/flag.jpg");
+	background-size: contain;
+	background-size: 100vw 100vh
+}
+
+/* Navigation Styles */
+
+nav {
+	background-color: #2b2a33;
+}
+
+nav ul {
+	text-align: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	font-size: 0; /* Removes nav ul whitespace between each <li> caused by inline-block */
+}
+
+nav li {
+	display: inline;
+}
+
+nav li a {
+	font-size: 3vw;
+	display: inline-block;
+	padding: 1% 1%;
+	color: white;
+	text-decoration: none;
+}
+
+nav a:hover {
+	background-color: #646274;
+}
+
+nav #active {
+	color: #2b2a33;
+	background-color: #FFFFFF;
+}
+
+/* Main Styles */
+
+main #body {
+	background-color: #42414D;
+	text-align: center;
+	margin: 3vw 3vw 0 3vw;
+}
+
+main #body h1,h2,h3 {
+	color: #FFFFFF;
+	padding: 10px;
+	margin: 10px 0 10px 0;
+}
+
+main #body h1 {
+	background-color: #1a191f;
+}
+
+main #body h2 {
+	background-color: #2b2a33;
+}
+
+main #body p {
+	color: #FFFFFF;
+	padding: 0 40px 0 40px;
+	text-align: left;
+	font-size: 3vw;
+}
+
+main #body a {
+	color: lightblue;
+}
+
+main .bar {
+	color: #FFFFFF;
+	background-color: #2b2a33;
+	padding: calc(1em + 10px);
+	margin: 50px 0 25px 0;
+}
+
+main img {
+	padding: 15px 0 25px 0;
+	width: 50vw;
+}
+
+main ul {
+	font-size: 3vw;
+	color: #FFFFFF;
+	list-style-position: inside;
+	text-align: left;
+	margin: 0 10px 0 10px;
+}
+
+main ul li {
+	padding: 10px 0 10px 0;
+}
+
+main ul strong {
+	color: lightblue;
+}
+
+main table {
+	margin-left: auto;
+	margin-right: auto;
+	color: #FFFFFF;
+	border-collapse: collapse;
+	font-size: 3vw;
+	width: 100%;
+}
+
+main table, th, td {
+	border: 5px solid;
+	border-color: #2b2a33;
+}
+
+/* Footer Styles */
+
+footer {
+	position: relative;
+	background-color: #2b2a33;
+	margin: 3vw 0 0 0;
+}
+
+footer p {
+	color: #FFFFFF;
+	text-align: center;
+	padding: 1% 1%;
+}
+
+/* Newsletter Styles */
+
+main #newsletter {
+	padding: 20px;
+	margin: 0 20vw 0 20vw;
+}
+
+main #newsletter input[type=text], input[type=submit] {
+	width: 100%;
+	padding: 8px;
+	box-sizing: border-box;
+}
+
+main #newsletter input[type=text] {
+	margin: 0 0 20px 0;
+}
