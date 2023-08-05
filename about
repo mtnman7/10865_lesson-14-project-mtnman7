@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!--
+	
+	-->
+    <title>About</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Troy Rosenow">
+	<meta name="description" content="Learn more about the author – Meet Troy Rosenow, the driving force behind this website dedicated to helping US veterans. Discover their passion for supporting veterans, their background, and their commitment to making a positive impact on the lives of those who served in the US military.">
+    <meta name="keywords" content="website author, author bio, helping US veterans, veterans support, veterans advocate, US military, Troy Rosenow">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" media="screen and (min-width: 900px)" href="css/default_styles.css"> <!-- Computers -->
+	<link rel="stylesheet" media="screen and (max-width: 899px)" href="css/mobile_styles.css"> <!-- Tablet and phone -->
+</head>
+
+<body>
+    <header>
+		<nav>
+			<ul>
+				<li><a href="home.html">Home</a></li>
+				<li><a href="help.html">Ways to Help</a></li>
+				<li><a href="newsletter.html">Newsletter</a></li>
+				<li><a href="about.html" id="active">About</a></li>
+			</ul>
+		</nav>
+    </header>
+    <main>
+		<div id="body">
+			<h1>About Me</h1>
+			<p>My name is Troy Rosenow and I am the son of a US Army Veteran. My father served in Germany during the Vietnam War. My ex-Father-In-Law served in the US Navy during World War II. 
+			Caring for our veterans is a topic that is extremely important to me. These people put their lives on the line to protect us in ways we never have to experience ourselves. 
+			It is unfortunate that many American citizens take their freedom for granted. Regardless, there are many ways in which one can help our veterans. I hope you find my website helpful in that regard.
+			</p>
+			<img src="images/veteran.jpg" alt="Navy Veteran" height="500">
+			<h2>Purpose</h2>
+			<p>The purpose of this website is to provide users with information on the many ways they can help United States veterans, both past and present. We also offer a monthly newsletter that provides the most current information on this topic.</p>
+			<h2>Accessibility Statement</h2>
+			<p>At HelpingOurHeroes.com, we are committed to ensuring that our website is accessible to all individuals, including those with disabilities. 
+			We strive to provide a user-friendly experience that allows everyone to access the valuable information we share about supporting US veterans. 
+			Our team adheres to the Web Content Accessibility Guidelines (WCAG) 2.1 to ensure that our content is perceivable, operable, understandable, and robust. 
+			We continuously work to improve and maintain the accessibility of our website to ensure that it remains inclusive and accessible to all visitors. 
+			If you encounter any accessibility barriers or have suggestions for improvement, please don&#39;t hesitate to contact us using the form below. 
+			Your feedback is valuable to us as we remain dedicated to providing equal access to all individuals seeking ways to assist our US veterans.
+			</p>
+			<div class="bar"></div>
+		</div>
+    </main>
+    <footer>
+		<p>Copyright by Troy Rosenow &copy; 2023</p>
+    </footer>
+</body>
+
+</html>

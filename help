@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<!--
+	
+	-->
+    <title>Ways to Help</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Troy Rosenow">
+	<meta name="description" content="Discover meaningful ways to support the brave men and women who served in the military. Learn how to contribute to their well-being and make a positive impact on their lives.">
+    <meta name="keywords" content="US veterans, veterans assistance, support veterans, military charities, veterans donations">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" media="screen and (min-width: 900px)" href="css/default_styles.css"> <!-- Computers -->
+	<link rel="stylesheet" media="screen and (max-width: 899px)" href="css/mobile_styles.css"> <!-- Tablet and phone -->
+</head>
+
+<body>
+    <header>
+		<nav>
+			<ul>
+				<li><a href="home.html">Home</a></li>
+				<li><a href="help.html" id="active">Ways to Help</a></li>
+				<li><a href="newsletter.html">Newsletter</a></li>
+				<li><a href="about.html">About</a></li>
+			</ul>
+		</nav>
+    </header>
+    <main>
+		<div id="body">
+			<h1>Extending a Hand</h1>
+			<p>There are numerous ways individuals and communities can extend a helping hand to US veterans, ensuring they receive the support and gratitude they deserve for their service. 
+			One impactful approach is to contribute to reputable veteran- focused charities and organizations that provide a wide range of services. 
+			Donations to well-established nonprofits like the Wounded Warrior Project or Homes for Our Troops can make a significant difference in the lives of veterans in need. 
+			Whether it's through financial contributions, volunteering, or advocacy, each act of support contributes to a collective effort to give back to those who have sacrificed so much for our country.
+			</p>
+			<p>
+			Supporting US veterans is essential to express gratitude for their service and help them transition to civilian life. Here are some ways you can support a US veteran:
+			</p>
+			<ul>
+				<li><strong>Volunteer:</strong> Offer your time and skills to veteran-focused organizations such as those noted above.</li>
+				<li><strong>Donate:</strong> Contribute to veteran-related charities or nonprofits that provide essential services and support to veterans and their families.</li>
+				<li><strong>Mentorship:</strong> Offer mentorship or career advice to veterans who are transitioning to civilian life, helping them find suitable job opportunities or educational paths.</li>
+				<li><strong>Employment Assistance:</strong> If you are an employer or know someone who is, consider hiring veterans and providing them with job opportunities.</li>
+				<li><strong>Advocate for Veteran Rights:</strong> Advocate for policies that benefit veterans, including improved healthcare, mental health services, and access to educational opportunities.</li>
+				<li><strong>Support PTSD Awareness:</strong> Raise awareness about post-traumatic stress disorder (PTSD) and its effects on veterans' lives. Encourage those who may be struggling to seek help.</li>
+			</ul>
+			<h2>Wounded Warrior</h2>
+			<img src='https://www.woundedwarriorproject.org/media/ugbk5cf1/wwp21_brand_wban_wwpweb_180x150px_v2.jpg' alt='Wounded Warrior Project' height="300"/>
+			<p><a href="https://www.woundedwarriorproject.org">The Wounded Warrior Project</a> is a nonprofit organization that provides a range of programs and services to support injured veterans and their families, assisting them in their transition to civilian life. 
+			They focus on offering mental and physical health support, career counseling, and social engagement opportunities to improve the lives of wounded veterans (Wounded Warrior Project, n.d.).
+			</p>
+			<h2>Operation Phone Home</h2>
+			<img src="images/phone.jpg" alt="Soldier holding a phone" height="300">
+			<p><a href="https://www.uso.org/programs/operation-phone-home">Operation Phone Home</a> is an initiative that aims to provide US military veterans with free international calls, connecting them with their loved ones stationed overseas or in distant locations. 
+			The program helps foster communication and support for veterans and their families during times of separation (Operation Phone Home, n.d.).
+			</p>
+			<h2>Homes for Our Troops</h2>
+			<img src="images/homes.jpg" alt="Homes For Our Troops logo" height="300">
+			<p><a href="https://www.hfotusa.org">Homes for Our Troops</a> is a nonprofit organization that constructs specially adapted homes for severely injured post-9/11 veterans, enabling them to regain their independence and improve their quality of life. 
+			Through their efforts, they provide mortgage-free homes that are designed to accommodate the unique needs and challenges faced by these veterans (Homes For Our Troops, n.d.).
+			</p>
+			<h2>Veterans Honor Flight</h2>
+			<img src="images/flight.jpg" alt="Veterans Honor Flight logo" height="300">
+			<p><a href="https://www.honorflight.org">Veterans Honor Flight</a> is a nonprofit organization that arranges all-expenses-paid trips for military veterans to visit and reflect at the memorials in Washington, D.C. 
+			The program aims to honor and express gratitude to veterans for their service and sacrifices (Veterans Honor Flight, n.d.).
+			</p>
+			<h2>Contact</h2>
+			<table>
+				<tr>
+					<th>Organization</th>
+					<th>Website</th>
+					<th>Phone</th>
+				</tr>
+				<tr>
+					<td>Wounded Warrior</td>
+					<td>www.woundedwarriorproject.org</td>
+					<td>480-946-0663</td>
+				</tr>
+				<tr>
+					<td>Operation Phone Home</td>
+					<td>www.uso.org/programs/operation-phone-home</td>
+					<td>888-484-3876</td>
+				</tr>
+				<tr>
+					<td>Homes for Our Troops</td>
+					<td>www.hfotusa.org</td>
+					<td>866-787-6677</td>
+				</tr>
+				<tr>
+					<td>Veterans Honor Flight</td>
+					<td>www.honorflight.org</td>
+					<td>937-521-2400</td>
+				</tr>
+			</table>
+			<div class="bar"></div>
+		</div>
+    </main>
+    <footer>
+		<p>Copyright by Troy Rosenow &copy; 2023</p>
+    </footer>
+</body>
+
+</html>
