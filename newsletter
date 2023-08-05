@@ -1,16 +1,20 @@
 <!DOCTYPE html>
-<html>
+
+<html lang="en">
 
 <head>
 	<!--
-	
+        Author:     TRO2027507
+        Course:     CIS133DA
+        Section:    10865
+        Lesson:     14
 	-->
     <title>Newsletter</title>
     <meta charset="UTF-8">
     <meta name="author" content="Troy Rosenow">
 	<meta name="description" content="Sign up for our newsletter to discover impactful ways to help US veterans - Stay informed with updates on supporting the brave men and women who served in the US military. Join our community and make a positive difference in veterans' lives.">
     <meta name="keywords" content="newsletter signup, US veterans support, veteran assistance, veterans community, ways to help veterans, veteran charity updates">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" media="screen and (min-width: 900px)" href="css/default_styles.css"> <!-- Computers -->
 	<link rel="stylesheet" media="screen and (max-width: 899px)" href="css/mobile_styles.css"> <!-- Tablet and phone -->
 </head>
@@ -36,9 +40,9 @@
 			</p>
 			<h2>Newsletter Form</h2>
 			<div id="newsletter">
-				<input type="text" placeholder="Name" name="name" id="name" required>
-				<input type="text" placeholder="Email address" name="mail" id="mail" required>
-				<input type="submit" value="Subscribe" onclick="subscribe()">
+				<input type="text" aria-label="name" placeholder="Name" name="name" id="name" required>
+				<input type="text" aria-label="mail" placeholder="Email address" name="mail" id="mail" required>
+				<input type="submit" aria-label="Subscribe" value="Subscribe" onclick="subscribe()">
 			</div>
 			<div class="bar"></div>
 		</div>

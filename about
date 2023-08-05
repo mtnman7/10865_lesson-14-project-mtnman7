@@ -1,16 +1,20 @@
 <!DOCTYPE html>
-<html>
+
+<html lang="en">
 
 <head>
 	<!--
-	
+        Author:     TRO2027507
+        Course:     CIS133DA
+        Section:    10865
+        Lesson:     14
 	-->
     <title>About</title>
     <meta charset="UTF-8">
     <meta name="author" content="Troy Rosenow">
 	<meta name="description" content="Learn more about the author – Meet Troy Rosenow, the driving force behind this website dedicated to helping US veterans. Discover their passion for supporting veterans, their background, and their commitment to making a positive impact on the lives of those who served in the US military.">
     <meta name="keywords" content="website author, author bio, helping US veterans, veterans support, veterans advocate, US military, Troy Rosenow">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" media="screen and (min-width: 900px)" href="css/default_styles.css"> <!-- Computers -->
 	<link rel="stylesheet" media="screen and (max-width: 899px)" href="css/mobile_styles.css"> <!-- Tablet and phone -->
 </head>

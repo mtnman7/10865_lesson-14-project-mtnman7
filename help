@@ -1,16 +1,20 @@
 <!DOCTYPE html>
-<html>
+
+<html lang="en">
 
 <head>
 	<!--
-	
+        Author:     TRO2027507
+        Course:     CIS133DA
+        Section:    10865
+        Lesson:     14
 	-->
     <title>Ways to Help</title>
     <meta charset="UTF-8">
     <meta name="author" content="Troy Rosenow">
 	<meta name="description" content="Discover meaningful ways to support the brave men and women who served in the military. Learn how to contribute to their well-being and make a positive impact on their lives.">
     <meta name="keywords" content="US veterans, veterans assistance, support veterans, military charities, veterans donations">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" media="screen and (min-width: 900px)" href="css/default_styles.css"> <!-- Computers -->
 	<link rel="stylesheet" media="screen and (max-width: 899px)" href="css/mobile_styles.css"> <!-- Tablet and phone -->
 </head>
@@ -46,7 +50,7 @@
 				<li><strong>Support PTSD Awareness:</strong> Raise awareness about post-traumatic stress disorder (PTSD) and its effects on veterans' lives. Encourage those who may be struggling to seek help.</li>
 			</ul>
 			<h2>Wounded Warrior</h2>
-			<img src='https://www.woundedwarriorproject.org/media/ugbk5cf1/wwp21_brand_wban_wwpweb_180x150px_v2.jpg' alt='Wounded Warrior Project' height="300"/>
+			<img src='https://www.woundedwarriorproject.org/media/ugbk5cf1/wwp21_brand_wban_wwpweb_180x150px_v2.jpg' alt="Wounded Warrior Project" height="300">
 			<p><a href="https://www.woundedwarriorproject.org">The Wounded Warrior Project</a> is a nonprofit organization that provides a range of programs and services to support injured veterans and their families, assisting them in their transition to civilian life. 
 			They focus on offering mental and physical health support, career counseling, and social engagement opportunities to improve the lives of wounded veterans (Wounded Warrior Project, n.d.).
 			</p>
